@@ -17,15 +17,15 @@
 
 **Currently learning:**
 
-- HTML
+- 🧐 HTML
 
-- CSS
+- 🌈 CSS
 
 **Future Technologies:**
 
-- Javascript Language
+- 🧠 Javascript Language
 
-- Dynamic Javascript 
+- 🤔 Dynamic Javascript 
 
 ## 🏆 Soft Skills
 
