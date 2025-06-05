@@ -43,31 +43,36 @@
 ### **1️⃣ First GitHub Project**
 
 🔹 **Description:** My first project using GitHub to manage files.  
-🔹 **Status:** ✅ Completed
+🔹 **Status:** 
+✅ Completed
 
 ### **2️⃣ CS Cat HTML Portfolio
 
 🔹 **Description:** A simple HTML project.  
 🔹 **Technologies:** HTML
-🔹 **Status:**  ✅ Completed
+🔹 **Status:** 
+✅ Completed
 
 ### **3️⃣ CS Pets Instagram Profile
 
 🔹 **Description:** A simple Responsive CSS project using Flexbox.  
 🔹 **Technologies:** HTML, CSS
-🔹 **Status:**  ✅ Completed
+🔹 **Status:**  
+✅ Completed
 
 ### **4️⃣ CS Footer
 
 🔹 **Description:** A simple Responsive CSS project using Grid.  
 🔹 **Technologies:** HTML, CSS
-🔹 **Status:**  ✅ Completed
+🔹 **Status:**  
+✅ Completed
 
 ### **4️⃣ Tailwind Footer
 
 🔹 **Description:** A simple Responsive CSS project using Tailwind.  
 🔹 **Technologies:** HTML, CSS, Tailwind
-🔹 **Status:**  ✅ Completed
+🔹 **Status:** 
+✅ Completed
 
 ---
 
