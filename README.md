@@ -40,18 +40,34 @@
 
 ## 📌 Projects
 
-Here are some of my milestone projects (to be updated as I progress!):
-
 ### **1️⃣ First GitHub Project**
 
 🔹 **Description:** My first project using GitHub to manage files.  
 🔹 **Status:** ✅ Completed
 
-### **2️⃣ Personal Portfolio** _(Coming Soon!)_
+### **2️⃣ CS Cat HTML Portfolio
 
-🔹 **Description:** A simple portfolio to showcase my projects.  
+🔹 **Description:** A simple HTML project.  
+🔹 **Technologies:** HTML
+🔹 **Status:**  ✅ Completed
+
+### **3️⃣ CS Pets Instagram Profile
+
+🔹 **Description:** A simple Responsive CSS project using Flexbox.  
 🔹 **Technologies:** HTML, CSS
-🔹 **Status:** ⏳ In Progress
+🔹 **Status:**  ✅ Completed
+
+### **4️⃣ CS Footer
+
+🔹 **Description:** A simple Responsive CSS project using Grid.  
+🔹 **Technologies:** HTML, CSS
+🔹 **Status:**  ✅ Completed
+
+### **4️⃣ Tailwind Footer
+
+🔹 **Description:** A simple Responsive CSS project using Tailwind.  
+🔹 **Technologies:** HTML, CSS, Tailwind
+🔹 **Status:**  ✅ Completed
 
 ---
 
